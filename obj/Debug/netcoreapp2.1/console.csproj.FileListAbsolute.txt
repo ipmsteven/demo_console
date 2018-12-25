@@ -1,0 +1,11 @@
+/Users/yunlei/git/console/bin/Debug/netcoreapp2.1/console.deps.json
+/Users/yunlei/git/console/bin/Debug/netcoreapp2.1/console.runtimeconfig.json
+/Users/yunlei/git/console/bin/Debug/netcoreapp2.1/console.runtimeconfig.dev.json
+/Users/yunlei/git/console/bin/Debug/netcoreapp2.1/console.dll
+/Users/yunlei/git/console/bin/Debug/netcoreapp2.1/console.pdb
+/Users/yunlei/git/console/obj/Debug/netcoreapp2.1/console.csprojAssemblyReference.cache
+/Users/yunlei/git/console/obj/Debug/netcoreapp2.1/console.csproj.CoreCompileInputs.cache
+/Users/yunlei/git/console/obj/Debug/netcoreapp2.1/console.AssemblyInfoInputs.cache
+/Users/yunlei/git/console/obj/Debug/netcoreapp2.1/console.AssemblyInfo.cs
+/Users/yunlei/git/console/obj/Debug/netcoreapp2.1/console.dll
+/Users/yunlei/git/console/obj/Debug/netcoreapp2.1/console.pdb
